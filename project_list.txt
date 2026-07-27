@@ -46,7 +46,7 @@ french_railway_signalling https://noeldev.github.io/FrenchRailwaySignalling/tagi
 fsftn_streetlight_map https://gitlab.com/fsftn/streetlight-map/-/raw/main/taginfo.json
 gb_uprn_postcode https://raw.githubusercontent.com/rskedgell/rskedgell-osm/main/gb_uprn_postcode-taginfo.json
 geofabrik_free_shapes https://download.geofabrik.de/taginfo-free-shapes.json
-geooccitania https://openstreetmap-oc.org/wp-json/geooccitania/v1/taginfo
+geooccitania https://openstreetmap-oc.org/?rest_route=/geooccitania/v1/taginfo
 guru_maps https://raw.githubusercontent.com/GuruMaps/MapStyle/master/taginfo.json
 highschoolmascotmap https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/tagInfo.json
 historic_place https://gk.historic.place/taginfo/historic.place.json
